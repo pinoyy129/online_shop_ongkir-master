@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24404515/README.md)
 # online_shop_ongkir
 LITTLE ONLINE SHOP WITH PERHITUNGAN ONGKIR WITH PHP 7 & MYSQLi
 
